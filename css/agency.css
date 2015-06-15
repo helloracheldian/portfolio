@@ -67,8 +67,13 @@ h6 {
     background-color: #f7f7f7;
 }
 
+.bg-pink {
+    background-color: #f26558;
+}
+
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #25231f;
+    /*background-color: #222;*/
 }
 
 .btn-primary {
@@ -446,11 +451,11 @@ section h3.section-subheading {
     content: "";
     position: absolute;
     top: 0;
-    bottom: 0;
+    bottom: 10px;
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #fff;
 }
 
 .timeline>li {
@@ -498,11 +503,11 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #fff;
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f26558;
+    background-color: #d0eadb;
 }
 
 .timeline>li .timeline-image h4 {
@@ -643,7 +648,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #f26558;
+    border: 7px solid #f1f1f1;
 }
 
 .team-member h4 {
@@ -918,6 +923,23 @@ span.tinybutton {
 
 .btn {
     line-height: 0.9;
+}
+
+blockquote {
+    font-size: 12pt;
+    text-align: left;
+}
+
+.special {
+    color: #FFF;
+    font-size: 1.3em;
+    letter-spacing: 1.1px;
+}
+
+.special2 {
+    color: #FFF;
+    font-size: 1.5em;
+    letter-spacing: 1.1px;
 }
 
 @font-face {
