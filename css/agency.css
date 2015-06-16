@@ -243,6 +243,9 @@ fieldset[disabled] .btn-xl.active {
     background-color: #d0eadb;
 }
 
+
+
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -254,10 +257,10 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 3.3em;
-        -webkit-transition: all .8s;
-        -moz-transition: all .8s;
-        transition: all .8s;
+        /* Font size is controlled in "extra-media-queries.less" file. */
+        -webkit-transition: all .01s; /* transition removed to prevent jumping menu items. */
+        -moz-transition: all .01s; /* transition removed to prevent jumping menu items. */
+        transition: all .01s; /* transition removed to prevent jumping menu items. */
     }
 
     .navbar-default .navbar-nav>.active>a {
@@ -279,9 +282,9 @@ header {
     color: #fff;
     background-attachment: scroll;
     
-    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url('../img/header-bg2.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url('../img/header-bg-optimized.jpg');
 
-    /*background-image: url(../img/header-bg2.jpg);*/
+    /*background-image: url(../img/header-bg-optimized.jpg);*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -688,7 +691,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../img/contact.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../img/contact-optimized.jpg');
     /*background-image: url(../img/contact.jpg);*/
     background-position: center;
     background-repeat: no-repeat;

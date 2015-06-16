@@ -275,7 +275,7 @@ html[xmlns] .flexslider .slides {
   bottom: -10px;
   color: #000;
   display: block;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000); /* IE6–IE9 */
+  filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000)";
   left: 0;
   padding: 1em;
   position: absolute;

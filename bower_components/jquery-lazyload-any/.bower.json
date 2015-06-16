@@ -1,0 +1,25 @@
+{
+  "name": "jquery-lazyload-any",
+  "version": "0.2.3",
+  "main": [
+    "build/jquery.lazyload-any.min.js"
+  ],
+  "ignore": [
+    "samples",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "homepage": "https://github.com/emn178/jquery-lazyload-any",
+  "_release": "0.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.3",
+    "commit": "141321544dd8f6721856d8f94b22d5b031318995"
+  },
+  "_source": "git://github.com/emn178/jquery-lazyload-any.git",
+  "_target": "~0.2.3",
+  "_originalSource": "jquery-lazyload-any",
+  "_direct": true
+}
