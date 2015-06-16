@@ -945,6 +945,10 @@ blockquote {
     letter-spacing: 1.1px;
 }
 
+.list-inline > li {
+    padding-bottom: 5px;
+}
+
 @font-face {
     font-family: 'champagne__limousinesregular';
     src: url('../fonts/champagne__limousines-webfont.eot');
