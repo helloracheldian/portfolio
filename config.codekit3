@@ -1274,8 +1274,8 @@
 		"oA": 0,
 		"oAP": "\/img\/logo.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1312,9 +1312,9 @@
 		},
 	"\/img\/logos\/creative-market.jpg": {
 		"ft": 16384,
-		"iS": 1766,
+		"iS": 1731,
 		"oA": 0,
-		"oAP": "\/img\/logos\/creative-market.jpg",
+		"oAP": "\/img\/logos\/.creative-market~imageoptim.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1441,8 +1441,8 @@
 		"oA": 0,
 		"oAP": "\/img\/logos\/lombardos.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1473,7 +1473,7 @@
 		"oAP": "\/img\/logos\/murderino2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logos\/murderino3.jpg": {
@@ -1483,7 +1483,7 @@
 		"oAP": "\/img\/logos\/murderino3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logos\/picturethis.png": {
@@ -1492,8 +1492,8 @@
 		"oA": 0,
 		"oAP": "\/img\/logos\/picturethis.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1515,7 +1515,7 @@
 		"oAP": "\/img\/logos\/themeforest.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logos\/uoftmedicine.jpg": {
@@ -1525,7 +1525,7 @@
 		"oAP": "\/img\/logos\/uoftmedicine.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logos\/wordpress.jpg": {
@@ -1554,8 +1554,8 @@
 		"oA": 0,
 		"oAP": "\/img\/map-image.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1661,9 +1661,9 @@
 		},
 	"\/img\/portfolio\/2frame1.jpg": {
 		"ft": 16384,
-		"iS": 90875,
+		"iS": 86395,
 		"oA": 0,
-		"oAP": "\/img\/portfolio\/2frame1.jpg",
+		"oAP": "\/img\/portfolio\/.2frame1~imageoptim.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1766,7 +1766,7 @@
 		"oAP": "\/img\/portfolio\/3tiff1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/3tiff2.jpg": {
@@ -1786,7 +1786,7 @@
 		"oAP": "\/img\/portfolio\/3tiff3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/3tiff4.jpg": {
@@ -1806,7 +1806,7 @@
 		"oAP": "\/img\/portfolio\/3wedding1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/3wedding2.jpg": {
@@ -1816,7 +1816,7 @@
 		"oAP": "\/img\/portfolio\/3wedding2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/3wedding3.jpg": {
@@ -1826,7 +1826,7 @@
 		"oAP": "\/img\/portfolio\/3wedding3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/3wedding4.jpg": {
@@ -1859,6 +1859,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/portfolio\/4bcfs1.jpg": {
+		"ft": 16384,
+		"iS": 213811,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/4bcfs1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/4bcfs2.jpg": {
+		"ft": 16384,
+		"iS": 322351,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/4bcfs2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/4bcfs3.jpg": {
+		"ft": 16384,
+		"iS": 215207,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/4bcfs3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/4bcfs4.jpg": {
+		"ft": 16384,
+		"iS": 159971,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/4bcfs4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/4bcfs5.jpg": {
+		"ft": 16384,
+		"iS": 106782,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/4bcfs5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/portfolio\/5gol1.jpg": {
 		"ft": 16384,
 		"iS": 52099,
@@ -1876,7 +1926,7 @@
 		"oAP": "\/img\/portfolio\/5gol2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/5gol3.jpg": {
@@ -1886,7 +1936,7 @@
 		"oAP": "\/img\/portfolio\/5gol3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/6archie.jpg": {
@@ -1896,7 +1946,7 @@
 		"oAP": "\/img\/portfolio\/6archie.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/6book.jpg": {
@@ -1906,7 +1956,7 @@
 		"oAP": "\/img\/portfolio\/6book.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/portfolio\/6card.jpg": {
@@ -1914,6 +1964,36 @@
 		"iS": 37417,
 		"oA": 0,
 		"oAP": "\/img\/portfolio\/6card.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/portfolio\/6catalogue3.jpg": {
+		"ft": 16384,
+		"iS": 284964,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/6catalogue3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/6catalogue4.jpg": {
+		"ft": 16384,
+		"iS": 240279,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/6catalogue4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/6catalogue5.jpg": {
+		"ft": 16384,
+		"iS": 255143,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/6catalogue5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1989,6 +2069,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/portfolio\/8ally.jpg": {
+		"ft": 16384,
+		"iS": 246206,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/8ally.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/portfolio\/8bri.jpg": {
 		"ft": 16384,
 		"iS": 58169,
@@ -2014,6 +2104,16 @@
 		"iS": 52099,
 		"oA": 0,
 		"oAP": "\/img\/portfolio\/8gol.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/8growth.jpg": {
+		"ft": 16384,
+		"iS": 294778,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/8growth.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2099,11 +2199,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/portfolio\/main_bcfs.jpg": {
+		"ft": 16384,
+		"iS": 39475,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/main_bcfs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/portfolio\/main_bri.jpg": {
 		"ft": 16384,
 		"iS": 16354,
 		"oA": 0,
 		"oAP": "\/img\/portfolio\/main_bri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/portfolio\/main_catalogue.jpg": {
+		"ft": 16384,
+		"iS": 79084,
+		"oA": 0,
+		"oAP": "\/img\/portfolio\/main_catalogue.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2227,6 +2347,13 @@
 		"oAP": "\/img\/portfolio\/thumbs.psd",
 		"oF": 0
 		},
+	"\/img\/RachelDian_2018web.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/RachelDian_2018web.pdf",
+		"oF": 0
+		},
 	"\/img\/team\/1.jpg": {
 		"ft": 16384,
 		"iS": 11310,
@@ -2234,7 +2361,7 @@
 		"oAP": "\/img\/team\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/index.html": {
